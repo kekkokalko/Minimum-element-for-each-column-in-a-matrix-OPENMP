@@ -1,5 +1,7 @@
 # Minimum-element-for-each-column-in-a-matrix-OPENMP
 
+![download](https://user-images.githubusercontent.com/94131849/173629468-679d9938-18a0-4bed-9101-b25636e868a5.png)
+
 ## Progetto di Calcolo Parallelo e Distribuito - Università "Parthenope"
 
 Implementare un programma parallelo per l’ambiente multicore con np unità
